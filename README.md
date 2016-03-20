@@ -1,5 +1,5 @@
 ### What is Trello periodic card adder?
-Trello periodic card adder is a simple python application offering adding particular set of cards periodically to your boards. It can be useful for scheduling iterative and recurring tasks.
+Trello periodic card adder is a simple python application offering adding particular set of cards to your boards periodically. It can be useful for scheduling iterative and recurring tasks.
 
 ### Configuring email account
 Configuring email account in file config.txt:
