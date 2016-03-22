@@ -1,6 +1,0 @@
-grzesiekzajac+udcctdmij8xwid8jotij@boards.trello.com
-e @@@ 1 @@@ 12.11.1993 @@@ 12.11.2093 @@@ Zadanie z listy b0 codziennie @@@ Opis z pliku board @@@ #blue
-e @@@ 5 @@@ 12.11.1993 @@@ 12.11.2093 @@@ Zadanie z listy b0 co 5 dni @@@ Opis z pliku board @@@ #blue
-m @@@ 20 @@@ 12.11.1993 @@@ 12.11.2093 @@@ Zadanie z listy b0 w 20. dzien miesiaca @@@ Opis z pliku board @@@ #blue
-w @@@ 6 @@@ 12.11.1993 @@@ 12.11.2093 @@@ Zadanie z listy b0 w niedziele @@@ Opis z pliku board @@@ #blue
-e @@@ 2 @@@ 12.11.1993 @@@ 12.11.2093 @@@ Zadanie z listy b0 co 2 dni @@@ Opis z pliku board @@@ #blue

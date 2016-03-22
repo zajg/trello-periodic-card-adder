@@ -1,5 +1,4 @@
-from Updater import Updater
+from updater import Updater
 
 up = Updater("./data")
 up.start()
-
